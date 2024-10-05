@@ -64,7 +64,7 @@ html, body {
 
 
 .action-bar {
-    width: 10%;
+    width: 120px;
     padding: 5px; 
 
     display: flex; 
@@ -80,6 +80,8 @@ html, body {
     margin-left: auto; 
 
     background-color: #9FC7DF;
+    background-color: #637A88;
+
 }
 .action-bar p {
     font-family: 'MuseoModerno', sans-serif; 
